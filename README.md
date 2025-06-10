@@ -89,14 +89,6 @@ This project does not include user authentication. It is a single-user inference
 
 ---
 
-## 📬 Contact
-
-**Abdullha Mulla**  
-📧 Email: [abdullahmulla002@gmail.com](mailto:abdullahmulla002@gmail.com)  
-📞 Phone: +91 9986366573
-
----
-
 ## 📄 License
 
 This project is for educational and research purposes. You may modify and reuse it with attribution.
